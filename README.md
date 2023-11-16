@@ -1,1 +1,1 @@
-https://github.com/karadagserhat/weather-app-react
+https://weather-app-react-mini.netlify.app/
